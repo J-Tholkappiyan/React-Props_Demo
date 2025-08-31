@@ -1,0 +1,36 @@
+body {
+  background: linear-gradient(135deg, #282c34 0%, #1a1d23 100%);
+  color: #abb2bf;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 20px;
+}
+
+h3 {
+  color: #98c379;
+  margin: 15px 0;
+  font-size: 1.6rem;
+}
+
+p {
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+}
+
+.interactive-demo {
+  background-color: #21252b;
+  padding: 25px;
+  border-radius: 10px;
+  margin: 25px 0;
+  border: 1px solid #4d5360;
+}
+
+input {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #61dafb;
+  background-color: #1a1d23;
+  color: #abb2bf;
+  margin-top: 10px;
+  width: 100%;
+  font-size: 1rem;
+}
